@@ -1,6 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Exo+2&pause=1000&color=0FC4DA&center=true&width=435&lines=Hi%2C+I'm+Long+V%C5%A9)](https://git.io/typing-svg)
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Exo+2&pause=1000&color=0FC4DA&center=true&width=435&lines=Nickname%3A+Kuro)](https://git.io/typing-svg)
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Exo+2&pause=1000&color=0FC4DA&center=true&width=435&lines=Full+Name%3A+V%C5%A9+%C4%90%E1%BB%A9c+Long)](https://git.io/typing-svg)
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Exo+2&pause=1000&color=0FC4DA&center=true&vCenter=true&width=500&height=61&lines=Currently+learning%3A+python%2C+javascript%2C+HTML%2C+CSS+%2C+C%2B%2B)](https://git.io/typing-svg)
 
 # 💻Tech Stack
