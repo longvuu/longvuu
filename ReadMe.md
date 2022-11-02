@@ -6,6 +6,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Exo+2&pause=1000&color=0FC4DA&center=true&vCenter=true&width=500&height=61&lines=Currently+learning%3A+python%2C+javascript%2C+HTML%2C+CSS+%2C+C%2B%2B)](https://git.io/typing-svg)
 
+[![Discord Presence](https://lanyard.cnrad.dev/api/1007631986623524965)](https://discord.com/users/1007631986623524965)
 
 ## 🌐Socials
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/https://discord.gg/YmhHvxaJ4g) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100086515356897) 
