@@ -14,5 +14,4 @@
 ## 🏆GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=kuronight29&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/1007631986623524965)](https://discord.com/users/1007631986623524965)
 
