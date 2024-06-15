@@ -1,17 +1,26 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Exo+2&pause=1000&color=0FC4DA&center=true&width=435&lines=Hi%2C+I'm+Long+V%C5%A9)](https://git.io/typing-svg)
+#
+<div>
+<br/>
+<img src="https://i.imgur.com/pv2LTc6.png" width="650" align="center"/>
+<br/>
+<br/>
+- Learning <img src="https://i.imgur.com/Xjb867j.png" alt="." width="16" height="16"/> JavaScript, <img src="https://i.imgur.com/eZxBcrA.png" alt="." width="16" height="16"/> [NodeJS](https://nodejs.org/), ,  and <img src="https://i.imgur.com/qgdFuhG.png" alt="." width="16" height="16"/> C++
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Exo+2&pause=1000&color=0FC4DA&center=true&width=435&lines=Nickname%3A+Kuro)](https://git.io/typing-svg)
+</div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Exo+2&pause=1000&color=0FC4DA&center=true&width=435&lines=Full+Name%3A+V%C5%A9+%C4%90%E1%BB%A9c+Long)](https://git.io/typing-svg)
+## Discord
+<a href="https://discord.com/users/1007631986623524965"  align="left">
+    <img src="https://lanyard.cnrad.dev/api/1007631986623524965?theme=dark&bg=1A1B27&borderRadius=15px&animated=true&idleMessage=On%20the%20sky%20there%20is%20an%20angel%20in%20somewhere%20(.%20%E2%9D%9B%20%E1%B4%97%20%E2%9D%9B.)">
+  </a>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Exo+2&pause=1000&color=0FC4DA&center=true&vCenter=true&width=500&height=61&lines=Currently+learning%3A+python%2C+javascript%2C+HTML%2C+CSS+%2C+C%2B%2B)](https://git.io/typing-svg)
+## My stats:
 
-# 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=kuronight29&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=kuronight29&theme=vue-dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kuronight29&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆GitHub Trophies
-![](https://github-trophies.vercel.app/?username=kuronight29&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
+<br/>
+<p align="left">
+  <a href="/">
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=kuronight29&theme=tokyonight&show_icons=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=kuronight29&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
+<br>
 
