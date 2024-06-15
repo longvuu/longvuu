@@ -4,7 +4,7 @@
 <img src="https://i.imgur.com/pv2LTc6.png" width="650" align="center"/>
 <br/>
 <br/>
-- Learning <img src="https://i.imgur.com/Xjb867j.png" alt="." width="16" height="16"/> JavaScript, <img src="https://i.imgur.com/eZxBcrA.png" alt="." width="16" height="16"/> [NodeJS](https://nodejs.org/), ,  and <img src="https://i.imgur.com/qgdFuhG.png" alt="." width="16" height="16"/> C++
+- Learning <img src="https://i.imgur.com/Xjb867j.png" alt="." width="16" height="16"/> JavaScript, <img src="https://i.imgur.com/eZxBcrA.png" alt="." width="16" height="16"/> Nodejs ,  and <img src="https://i.imgur.com/qgdFuhG.png" alt="." width="16" height="16"/> C++
 
 </div>
 
