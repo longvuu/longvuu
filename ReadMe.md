@@ -10,7 +10,11 @@
 
 - Font-End Developer **4+ years** experience.
 
+- Studying: ***Machine Learning and Website Developing***.
+
 - Good with **Javascript**, **Typescript**, **C++**, **CSS**, **HTML** and **Python**.
+
+- Familiar with **Debian**, **Ubuntu** and **Linux**.
 
 - Understand **Vietnamese (Native)**, and **English (Fluent)**.
 <img src="./assets/Rem1.png" width="300" align="right" />
