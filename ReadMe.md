@@ -16,7 +16,6 @@
   <img src="https://i.imgur.com/Xjb867j.png" alt="JavaScript" width="16" height="16"/> **Javascript**, 
   <img src="https://www.typescriptlang.org/favicon-32x32.png" alt="TypeScript" width="16" height="16"/> **Typescript**, 
   <img src="https://i.imgur.com/qgdFuhG.png" alt="C++" width="16" height="16"/> **C++**, 
-  <img src="https://i.imgur.com/3KyfuCu.png" alt="CSS" width="16" height="16"/> **CSS**, 
   <img src="https://raw.githubusercontent.com/brand-icons/brands/66a515d0afc1bdf9cd308a9ae8d85e1bd23a4d97/icons/color/python.svg" alt="Python" width="16" height="16"/> **Python**.
 
 - Understand <img src="https://i.imgur.com/3KyfuCu.png" alt="Vietnamese" width="16" height="16"/> **Vietnamese (Native)**, và <img src="https://i.imgur.com/a2KhTyR.gif" alt="English" width="16" height="16"/> **English (Fluent)**.
