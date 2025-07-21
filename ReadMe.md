@@ -13,7 +13,7 @@
 - Good with **Javascript**, **Typescript**, **C++**, **CSS**, **HTML** and **Python**.
 
 - Understand **Vietnamese (Native)**, and **English (Fluent)**.
-<img src="./assets/Rem.png" width="300" align="right" />
+<img src="./assets/Rem1.png" width="300" align="right" />
 <br/>
 <br/>
 <img src="./assets/Repositories-Rem.png" width="500" />
