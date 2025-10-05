@@ -27,9 +27,9 @@
 <br/>
   
 - 📗 [***longvuu/Discord-Voice_Self-Bot***](https://github.com/longvuu/Discord-Voice_Self-Bot) <br/>
-  A Discord self-bot that supports voice
-- 📘 [***longvuu/Cpp-Code***](https://github.com/longvuu/Cpp-Code) <br/>
-  A complete collection of C++ solutions for exercises and problems.
+  A Discord self-bot that supports voice 
+- 📘 [***longvuu/KuroOj***](https://github.com/longvuu/KuroOj) <br/> 
+  My Online Judge Code.
 - 📙 [***longvuu/ext***](https://github.com/longvuu/ext) <br/>
   Extension for the VBook app
 <br/>
