@@ -10,7 +10,7 @@
 
 - Front-End Developer.
 
-- Some games I play: ![](./images/icons/hi3.png)**Honkai Impact 3rd**, ![](./images/icons/hsr.png)**Honkai: Star Rail**, ![](./images/icons/lol.png)**LOL**, ![](./images/icons/uma.png)**Umamusume Pretty Derby**, ![](./images/icons/hok.png)**Honor of Kings**
+- Some games I play: ![](./images/icons/hi3.png) **Honkai Impact 3rd**, ![](./images/icons/hsr.png) **Honkai: Star Rail**, ![](./images/icons/lol.png) **LOL**, ![](./images/icons/hok.png) **Honor of Kings**
 
 - Good with 
   ![](./images/icons/js.png) **Javascript**, 
